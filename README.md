@@ -10,4 +10,4 @@ https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-n
 
 ![image](https://github.com/niteazi/Chat-GPT-NPC-In-Unity_TEST/assets/130102204/a236baef-64ec-476c-9763-a19819987b26)
 
-![image](https://github.com/niteazi/Chat-GPT-NPC-In-Unity_TEST/assets/130102204/2deef7d4-9302-4488-9784-17a22b5d79d7)
+![image](https://github.com/niteazi/Chat-GPT-NPC-In-Unity_TEST/assets/130102204/ab54fa58-3e48-4b87-ac32-881163822494)
