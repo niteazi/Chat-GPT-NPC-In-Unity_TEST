@@ -73,7 +73,7 @@ public class OpenAIController : MonoBehaviour
         var chatResult = await api.Chat.CreateChatCompletionAsync(new ChatRequest()
         {
             Model = Model.ChatGPTTurbo,
-            Temperature = 0.5,
+            Temperature = 0.8,
             MaxTokens = 60,
             Messages = messages //you give to the api the entire list of messages until that point so it figures out what to say next.
         });
