@@ -1,8 +1,8 @@
 Chat with a friendly robot who loves sunflowers. Powered by OpenAI API.
 
-Using : https://github.com/OkGoDoIt/OpenAI-API-dotnet/tree/master 
+Using: https://github.com/OkGoDoIt/OpenAI-API-dotnet/tree/master 
 
-Tutorial : https://www.immersivelimit.com/tutorials/how-to-use-chatgpt-in-unity
+Tutorial followed: https://www.immersivelimit.com/tutorials/how-to-use-chatgpt-in-unity
 
 Assets: https://assetstore.unity.com/packages/3d/characters/robots/robot-sphere-136226
 https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811
